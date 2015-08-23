@@ -1,7 +1,7 @@
 
 #include "compiler.h"
-#include "delay.h"
 
+#include <util/delay.h>
 #include <avr/pgmspace.h>
 
 /*-----------------------------------------------------------------------------------*/
